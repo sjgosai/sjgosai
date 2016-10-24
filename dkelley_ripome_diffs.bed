@@ -1,5 +1,5 @@
 browser position chrX:130836678-130964671
-track name=RIPome visibility=2 description="RIP peaks identified by DK" color=0,0,0,
+track name=RIPome visibility=2 description="RIP peaks identified by DK" color=0,0,0, db=hg19
 chr12	1021242	1605099	adar	1.09744
 chr7	98836416	98908753	adar	2.79944
 chr17	37026111	37078023	adar	0.863486
